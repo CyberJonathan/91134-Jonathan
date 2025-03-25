@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color:#eb4d38;
+
+    font-family:'Times New Roman', Times, serif;
+
+    font-size:28pt;
+
+    font-weight: bold;
+
+    text-align: center;
+
+    padding: 20px;
+
+}
+h2{
+    background-color: rgb(39, 218, 158);
+    color: rgba(35, 92, 42, 0.548);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section{
+    margin: 15px;
+}
+
+p{
+
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+footer{
+
+    background-color: brown;
+    margin: 15px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 5px;
+
+}
+h2:hover{
+    color: rgb(248, 246, 243);
+    background-color: rgb( 73, 10, 221);
+
+}
